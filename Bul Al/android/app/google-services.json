@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "30663326675",
+    "project_id": "bitirme-tezi-8ad8f",
+    "storage_bucket": "bitirme-tezi-8ad8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30663326675:android:296308cd53dfea71434d26",
+        "android_client_info": {
+          "package_name": "com.example.bitirme_tezi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30663326675-mqh5h6tbge7cc180at98a5tfamtnpuvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bitirme_tezi",
+            "certificate_hash": "189fe705bc6b5c269c7a8508a5592c4ccb48ebfe"
+          }
+        },
+        {
+          "client_id": "30663326675-i256jju3nmgtddomde66053cq6ap9p27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd3EKbZ1NyAuv7XIpQQ80lmp8FPrO7W7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30663326675-i256jju3nmgtddomde66053cq6ap9p27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30663326675-d48u1naaif5v7demncvriak5ebbigg1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bitirmeTezi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
